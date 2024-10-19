@@ -1,0 +1,1 @@
+For Plant disease detection, provided simple jupyter codes that can generate models and used for your project whereas for Face recognition project, provided python codes that will be comparing images and recognizing an individual.
